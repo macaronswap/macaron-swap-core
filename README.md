@@ -1,7 +1,5 @@
 # Macaron Factory
 
-[![Actions Status](https://github.com/macaronswap/macaron-swap-core/workflows/CI/badge.svg)](https://github.com/macaronswap/macaron-swap-core/actions)
-
 In-depth documentation on MacaronSwap is available at [docs.macaronswap.finance](https://docs.macaronswap.finance/).
 
 # Local Development
